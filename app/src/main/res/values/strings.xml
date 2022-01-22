@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BookServise</string>
+    <string name="title">Title:</string>
+    <string name="enter_the_book_title">Enter the book title</string>
+    <string name="author">Author:</string>
+    <string name="enter_the_book_author">Enter the book author</string>
+    <string name="year">Year:</string>
+    <string name="enter_the_book_year">Enter the book year</string>
+    <string name="add">Add</string>
+    <string name="favorite_book">Favorite book:</string>
+    <string name="change">Change</string>
+    <string name="year_of_the_book">Year of the book</string>
+    <string name="author_of_the_book">Author of the book</string>
+    <string name="title_of_the_book">Title of the book</string>
+    <string name="add_book">Add book</string>
+    <string name="favorite_book_btn">Favorite book</string>
+    <string name="author_btn">Author</string>
+    <string name="book">Book:</string>
+    <string name="pam">Programming of mobile applications</string>
+    <string name="lukasz">Łukasz</string>
+    <string name="ponachajba">Ponachajba</string>
+    <string name="title_unknown">Title unknown</string>
+    <string name="author_unknown">Author unknown</string>
+    <string name="date_unknown">Date unknown</string>
+    <string name="changes_saved">Changes have been saved</string>
+    <string name="zero_year">Year cannot be 0</string>
+    <string name="value_null">Value cannot be null</string>
+</resources>

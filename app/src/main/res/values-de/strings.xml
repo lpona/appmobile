@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookServise</string>
+    <string name="title">Titel</string>
+    <string name="enter_the_book_title">Geben Sie den Buchtitel</string>
+    <string name="author">Autor:</string>
+    <string name="enter_the_book_author">Geben Sie den Buchautor ein</string>
+    <string name="year">Jahr:</string>
+    <string name="enter_the_book_year">Geben Sie das Buchjahr ein</string>
+    <string name="favorite_book">Lieblingsbuch:</string>
+    <string name="change">Veränderung</string>
+    <string name="year_of_the_book">Jahr des Buches</string>
+    <string name="author_of_the_book">Autor des Buches</string>
+    <string name="title_of_the_book">Titel des Buches</string>
+    <string name="add_book">Buch hinzufügen</string>
+    <string name="favorite_book_btn">Lieblingsbuch</string>
+    <string name="author_btn">Autor</string>
+    <string name="book">Buch:</string>
+    <string name="pam">Programmierung von mobilen Anwendungen</string>
+    <string name="title_unknown">Titel unbekannt</string>
+    <string name="author_unknown">Unbekannter Autor</string>
+    <string name="date_unknown">Datum unbekannt</string>
+    <string name="changes_saved">Die Änderungen wurden gespeichert</string>
+    <string name="zero_year">Jahr darf nicht 0 sein</string>
+    <string name="value_null">Der Wert kann nicht Null sein</string>
+    <string name="add">Hinzufügen</string>
+</resources>
